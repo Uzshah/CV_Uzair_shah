@@ -1,1 +1,1 @@
-[PDF Preview](./cv/CV_UzairShah.pdf)
+[CV Preview](./cv/CV_UzairShah.pdf)
